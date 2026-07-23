@@ -2,7 +2,7 @@
 A web-based robot system developed using PHP, MySQL, JavaScript, HTML, and CSS to register and manage student records. The system allows users to add student information, store it in a MySQL database, and dynamically update student status without reloading the page.
 
  # Features
-- Add new student records.
+-  A robot that add new student records.
 - Store student information in a MySQL database.
 - Display all registered students in a table.
 - Toggle student status between active and inactive.
